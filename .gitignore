@@ -1,0 +1,8 @@
+node_modules
+process.json
+process-dev.json
+*.log
+.idea
+.vscode
+.tool_versions
+test.text
